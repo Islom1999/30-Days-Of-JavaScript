@@ -645,6 +645,6 @@ I am 25 years old.
 You are 30 years old.
 ```
 
-🎉 TABRIKLAYMAN  ! 🎉
+
 
 [2-kun >>](./02_Day_Data_types/02_day_data_types.md)
