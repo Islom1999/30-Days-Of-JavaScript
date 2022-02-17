@@ -967,6 +967,6 @@ console.log(numInt) // 9
 
 4. Quyidagi matndan raqamlarni chiqarib, shaxsning umumiy yillik daromadini hisoblang. _"U oyiga maoshdan 5000 yevro oladi, yillik 10000 evro bonus, oyiga 15000 evro onlayn kurslar."_
 
-🎉 TABRIKLAYMAN ! 🎉
+
 
 [<< 1-kun](../README.md) | [3-kun >>](../03_Day_Booleans_operators_date/03_booleans_operators_date.md)
